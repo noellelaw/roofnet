@@ -1,4 +1,4 @@
-# roofnet
+# RoofNet
 Version: 1.0 License: CC BY-NC 4.0 (with ODbL terms for derivative geospatial data) 
 Citation: RoofNet: A Global Multimodal Dataset for Roof Material Classification, (under review)
 Dataset Download: https://www.kaggle.com/datasets/noellelaw/roofnet
