@@ -1,10 +1,10 @@
 # RoofNet
-Version: 1.0 License: CC BY-NC 4.0 (with ODbL terms for derivative geospatial data) 
-Citation: RoofNet: A Global Multimodal Dataset for Roof Material Classification, (under review)
-Dataset Download: https://www.kaggle.com/datasets/noellelaw/roofnet
+Version: 1.0 License: CC BY-NC 4.0 (with ODbL terms for derivative geospatial data)
+
+## Currently being updated to expand to all countries, sift through some noise, add a more scalable annotation process, and improving VLM (overall), but also to not prioritize geographic name over visual features. Please hold tight for the update and resulting benchmarked results :). 
 
 ## Overview 
-RoofNet is the largest and most geographically diverse open-access dataset for global roof material classification. It consists of high-resolution Earth Observation (EO) image tiles paired with structured metadata and curated textual prompts describing roofing characteristics across 14 material classes and an "Unknown" class. The dataset is designed to support hazard preparedness, resilience planning, and post-disaster supply-chain analysis.
+RoofNet is the largest and most geographically diverse open-access dataset for global roof material classification. It consists of high-resolution Earth Observation (EO) image tiles paired with structured metadata and curated textual prompts describing roofing characteristics across 14 material classes and an "Unknown" class. The dataset is designed to support hazard preparedness, resilience planning, and post-disaster supply-chain analysis and will have benchmarked results shortly.
 
 RoofNet includes:
 
